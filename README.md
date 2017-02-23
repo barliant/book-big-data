@@ -1,3 +1,8 @@
-# My Awesome Book
+# Big Data
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Apa itu _Big Data_? Mengapa ada _Big Data_?
+
+Perkembangan teknologi perangkat keras dan perangkat lunak dalam telah memungkinkan siapa saja yang memiliki akses ke jaringan internet untuk mempublikasikan data. Teknologi internet, platform jejaring sosial, didukung oleh media penyimpanan yang semakin besar kapasitasnya seiring dengan berjalannya waktu, memungkinkan kita untuk menciptakan konten dalam berbagai bentuk. Di jejaring sosial Facebook, setiap pengguna Facebook dapat mengupdate status mereka kapan pun, demikian juga dengan jejaring sosial Twitter dan lain-lainnya.
+
+
+
